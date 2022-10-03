@@ -1,4 +1,4 @@
-![Picture](https://images.app.goo.gl/FH8qc1SSWV9hnfnt7)
+![Picture](picture.jpg)
 # Miko's User Page
 **My name is Miko Brown**
 > I like coding
