@@ -4,8 +4,7 @@
 > I like coding
 `git status`
 This site was built using [GitHub](https://github.com/)
-[link](#Miko's-User-Page)
-[README file](README.md)
+Relative link [README file](README.md)
 - I like python
 - I like java
 - I like c
